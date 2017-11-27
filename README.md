@@ -31,21 +31,27 @@
 ![Linea](assets/breather/gitlinea.png)
 
 **-Contextual**
-- Navegacióon contextual son las sugerencias de la página.
+- Navegación contextual son las sugerencias de la página.
 ![Contextual](assets/breather/contexgit.png)
+
+**-Facetada**
+- Navegacióon facetada son los filtros que vienen ya con la página, que puedes elegir mediante paquetes.
+![Facetada](assets/breather/facgit.png)
 
 ## Medium
 *Elemetos deNavegación*
+
 **-Global** 
 - Es el Elemento principal.
-![Global](assets/breather/gitglobal.png)
+![Global](assets/breather/medglo.png)
 
 **-En Linea**
 - Navegación en linea son los links referenciados que encontraremos en la pagina.
-![Linea](assets/breather/gitlinea.png)
+![Linea](assets/breather/medli.png)
 
-**-Contextual**
-- Navegacióon contextual son las sugerencias de la página.
-![Contextual](assets/breather/contexgit.png)
+**-Filtrada**
+- Aqui el usuario puede filtrar mediante las opciones su preferencia.
+![Filtrada](assets/breather/medfil.png)
+
 
 
